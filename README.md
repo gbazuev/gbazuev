@@ -1,5 +1,6 @@
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jt34LHEVIsbs0Qlbi2/giphy.gif" width="250"/>
+  <img src="https://media.tenor.com/R6gv3N69soAAAAAi/duck-spin-no-background.gif" width="250"/>
+  
 </div> 
 
 ##
