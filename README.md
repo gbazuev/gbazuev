@@ -6,7 +6,8 @@
 
 ##
 
- **Hello!🌱 I'm, Georgiy, a 16-year-old motivated developer from Russia🇷🇺**
+<h1 align="center">Hi, I'm Georgiy✋</h1>
+
 <div id="badges" align="bottom-left">
 <a href="https://vk.com/gbazuev">
 <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=float&logo=vk&logoColor=white" alt="VK"/>
