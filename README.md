@@ -4,16 +4,8 @@
   <img src="https://github.com/gbazuev/gbazuev/assets/121724080/f80a2284-a7bc-40ef-9bc7-e7cca696156b "width="150" height="250"/>
 </div> 
 
-##
-
-<h1 align="center">Hi, I'm Georgiy✋</h1>
-
-<div id="badges" align="bottom-left">
-<a href="https://vk.com/gbazuev">
-<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=float&logo=vk&logoColor=white" alt="VK"/>
-</a>
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=float&logo=stack-overflow&logoColor=white" alt="StackOverflow"/>
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=float&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=float&logo=telegram&logoColor=white" alt="Telegram"/>
+<div id="aboutme" align="center">
+  <h1>I'm Georgiy 🤗</h1>
+  <p>I'm 16 years old. I am a highly motivated self-taught developer from Russia 🇷🇺.</br>
+  Interested in 🔥<b>Hardware</b>🔥, ⚙️<b>Backend</b>⚙️, 🛠️<b>DevOps</b>🛠️ </p>
 </div>
-
