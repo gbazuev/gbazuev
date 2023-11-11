@@ -25,9 +25,9 @@
   ##
 
   ### 🧰 &nbsp;Tools:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=60 alt="Java">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=60 alt="C++">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width=60 alt="Gradle">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=60 alt="Linux">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=60 alt="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=50 alt="Java">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 alt="C++">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width=50 alt="Gradle">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 alt="Linux">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=50 alt="Git">
   
