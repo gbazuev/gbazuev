@@ -6,13 +6,28 @@
   
 <p align="center">
   <h1 align="center">I'm Georgiy 🤗</h1>
-  <p align="center">I'm 16 years old. I am a highly motivated self-taught developer from Russia 🇷🇺.</br>
-  Interested in 🔥<b>Hardware</b>🔥, ⚙️<b>Backend</b>⚙️, 🛠️<b>DevOps</b>🛠️, 💸<b>Fintech</b>💸</p>
+  <p align="center">I'm 16 years old. I am a highly motivated self-taught developer from Russia 🇷🇺.<br>
+ Very interested in ⚙️<b>Hardware</b>⚙️ and 💸<b>Fintech</b>💸,<br>
+  Study 📁<b>Backend</b>📁 and 🛠️<b>DevOps</b>🛠️</p>
 </p>
 
 ##
 
 ### 👨‍💻 &nbsp;About Me:
-* ⭐ My goal is to become a professional hardware engineer and ***build my own CPU & GPU chips***!
+
+* 🎯 My goal is to ***become a professional hardware engineer*** and ***build my own CPU & GPU chips***!
 * 🌱 Exploring the wilds of hardware and payments
 * ⏲️ In my free time, I ***design my own payment system as a pet project***
+* ⚡ How to reach me:
+  <a href="https://t.me/GeorgiyBazuev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=float&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://vk.com/gbazuev"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=float&logo=vk&logoColor=white" alt="VK"></a>
+
+  ##
+
+  ### 🧰 &nbsp;Tools:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=60 alt="Java">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=60 alt="C++">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width=60 alt="Gradle">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=60 alt="Linux">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=60 alt="Git">
+  
