@@ -24,10 +24,25 @@
 
   ##
 
-  ### 🧰 &nbsp;Tools:
+  ### 🪴 &nbsp; What am i studying now:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width=50 alt="Spring">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=50 alt="Java">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 alt="C++">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=50 alt="C">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=50 alt="CMake">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width=50 alt="Gradle">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 alt="Linux">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=50 alt="Git">
   
+
+  ## 🔜 &nbsp; What i need to learn:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=50 alt="Docker">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width=50 alt="Kafka">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width=50 alt="Nginx">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" width=50 alt="C-Embedded">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=50 alt="PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=50 alt="MongoDB">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width=50 alt="Redis">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width=50 alt="Prometheus">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=50 alt="MySQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" width=50 alt="Neo4J">
