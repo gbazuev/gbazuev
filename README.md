@@ -16,8 +16,8 @@
 ### 👨‍💻 &nbsp;About Me:
 
 * 🎯 My goal is to ***become a professional hardware engineer*** and ***build my own CPU & GPU chips***!
-* 🌱 Exploring the wilds of hardware and payments
-* ⏲️ In my free time, I ***design my own payment system, compiler and RISC-V CPU Emulator as a pet projects***
+* 🌱 Exploring the wilds of hardware and payments, read EMVco and various hardware specifications
+* ⏲️ In my free time, I ***design my own payment system and compiler as a pet projects***
 * ⚡ How to reach me:
   <a href="https://t.me/GeorgiyBazuev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=float&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://vk.com/gbazuev"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=float&logo=vk&logoColor=white" alt="VK"></a>
