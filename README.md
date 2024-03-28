@@ -16,7 +16,7 @@
 
 * 🎯 My goal is to ***become a professional hardware engineer*** and ***build my own CPU & GPU chips***!
 * 🌱 Exploring the wilds of hardware, various hardware and underlying software specifications
-* ⏲️ In my free time, I ***design my own compiler and other low-level projects as a pet projects***
+* ⏲️ In my free time, I ***design my own low-level projects***
 * ⚡ How to reach me:
   <a href="https://t.me/GeorgiyBazuev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=float&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://vk.com/gbazuev"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=float&logo=vk&logoColor=white" alt="VK"></a>
