@@ -29,3 +29,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=50 alt="CMake">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=50 alt="Linux">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width=50 alt="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width=50 alt="Gcc">
