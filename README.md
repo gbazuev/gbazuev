@@ -7,7 +7,7 @@
 <p align="center">
   <h1 align="center">I'm Georgiy 🤗</h1>
   <p align="center">I'm 16 years old. I am a highly motivated self-taught developer from Russia 🇷🇺.<br>
- Very interested in ⚙️<b>Hardware</b>⚙️<br>
+ Very interested in ⚙️<b>Hardware</b>⚙️, 🍀<b>Infrastructure</b>🍀<br>
 </p>
 
 ##
